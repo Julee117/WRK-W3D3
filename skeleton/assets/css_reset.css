@@ -1,0 +1,17 @@
+html, body, section, article, h1, h2, p, ol, li, ul, footer, aside, header, head,
+nav, figure {
+  margin: 0;
+  border: 0;
+  padding: 0;
+
+  font: inherit;
+  text-align: inherit;
+  text-decoration: inherit;
+  color: inherit;
+
+  background: transparent;
+}
+
+body {
+  line-height: 1.5 ;
+}
